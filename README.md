@@ -154,5 +154,7 @@ PORT=5000
 ## 👨 Author
 
 **Hamdan**
+**Shoaib**
+**Arsalan**
 
 Built as a full‑stack college project & portfolio application.
